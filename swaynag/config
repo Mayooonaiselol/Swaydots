@@ -1,0 +1,17 @@
+font=Iosevka Fixed Extended
+edge=top
+dismiss-button= 窱 
+[warning]
+background=12151d
+button-background=008aff
+button-text=ffffff
+text=ffffff
+border=12151d
+border-bottom=1e222a
+[error]
+background=12151d
+button-background=008aff
+button-text=ffffff
+text=ffffff
+border=12151d
+border-bottom=1e222a
