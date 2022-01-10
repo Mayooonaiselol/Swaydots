@@ -47,9 +47,6 @@ window#waybar.hidden {
   min-width: 20px;
   color: #61afef;
 }
-#custom-divider {
-  color: #21252e
-}
 
 #cpu,
 #temperature,
