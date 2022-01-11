@@ -241,8 +241,10 @@ bindsym XF86AudioLowerVolume exec $HOME/.scripts/volume.sh down
 bindsym XF86MonBrightnessUp exec $HOME/.scripts/brightness.sh up
 bindsym XF86MonBrightnessDown exec $HOME/.scripts/brightness.sh down
 bindsym $mod+x exec killall -SIGUSR1 waybar
-bindsym $mod+Print exec grim -g "$(slurp)" -| wl-copy && dunstify -a "Screenshot Clipped and Saved" ""
-bindsym Print exec IMG=/tmp/$(date | sed "s/\s/-/g" | sed "s/--/-/g").png && grim $IMG && cat $IMG | wl-copy && rm -rf $IMG && dunstify -a "Screenshot Clipped and Saved" ""
+bindsym $mod+Print exec grim -g "$(slurp)" -| wl-copy && dunstify -a "Screenshot Clipped" ""
+bindsym Print exec IMG=/tmp/$(date | sed "s/\s/-/g" | sed "s/--/-/g").png && grim $IMG && cat $IMG | wl-copy && rm -rf $IMG && dunstify -a "Screenshot Clipped" ""
+#bindsym $mod+Print exec grim -g "$(slurp)" ~/Screenshots/$(date +'%s_grim.png') && dunstify -a "Screenshot Saved" ""
+#bindsym Print exec grim ~/Screenshots/$(date +'%s_grim.png') && dunstify -a "Full Screenshot Saved"
 bindsym $mod+Alt+l exec --no-startup-id swaylock -C ~/.config/swaylock/config
 #Startup
 exec pipewire
