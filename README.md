@@ -15,7 +15,7 @@ Ubuntu Nerd Font[req for showing icons]
 
 Make them executable first in order to use them! 
 
-chmod +x <script-name>.sh
+```chmod +x <script-name>.sh```
 
 My Scripts are located in:
 
