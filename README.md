@@ -31,6 +31,10 @@ My Scripts are located in:
 `waybar/scripts`
 
 `scripts`
+
+There is a battery.sh script which gives a notification when battery is low, you can add that script to execute at sway startup. 
+
+Add this line in sway config(not present by default): `exec bash ./.scripts/battery.sh`
   
 ## Some things...
   
