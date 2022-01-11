@@ -10,3 +10,7 @@ Iosevka[font for status bar]
 mononoki Nerd Font Mono[font in terminal]
 
 Ubuntu Nerd Font[req for showing icons]
+
+## 
+
+## About .sh files
