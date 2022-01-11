@@ -1,4 +1,4 @@
-# Default config for sway
+# MayooonaiseLol config for sway. I hope you like it.
 #
 # Copy this to ~/.config/sway/config and edit it to your liking.
 #
@@ -41,8 +41,7 @@ set $menu rofi -show | xargs swaymsg exec --
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg /home/mayo/.swaybackgrounds/download.jpeg fill
-#output * bg /home/mayo/Downloads/3155588.jpg fill
+output * bg /home/mayo/swaybackgrounds/download.jpeg fill
 output * adaptive_sync on
 #
 # Example configuration:
