@@ -1,6 +1,8 @@
 # Swaydots
 Dotfiles for my Sway desktop. 
 
+![image](https://user-images.githubusercontent.com/97210788/148987103-fb7e761c-9030-4c9c-9797-af07c9f0a5e1.png)
+
 ## Fonts:
 
 Overpass Nerd Font [req for some icons]
