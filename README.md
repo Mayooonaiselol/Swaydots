@@ -25,7 +25,9 @@ My Scripts are located in:
   
 ## Some things...
   
-I use `swaylock-effects` instead of `swaylock`
+I use `swaylock-effects` instead of `swaylock`.
+
+Change qutebrowser/config.py ,lines 155 and 159 for your location of the startpage.
 
 # Some Common Issues (and fixes) you might encounter after installing sway...
 
