@@ -29,8 +29,6 @@ I use `swaylock-effects` instead of `swaylock`.
 
 Change qutebrowser/config.py ,lines 155 and 159 for your location of the startpage.
 
-# Some Common Issues (and fixes) you might encounter after installing sway...
-
 ## GTK Issue
 
 I encounter a gtk problem everytime in which the theme does not change from lxappearance.
