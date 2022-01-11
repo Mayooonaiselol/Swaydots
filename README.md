@@ -1,5 +1,5 @@
 # Swaydots
-Dotfiles for my Sway desktop. I hope you like it.
+Dotfiles for my Sway desktop. 
 
 ## Fonts:
 
