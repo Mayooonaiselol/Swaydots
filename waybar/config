@@ -32,13 +32,7 @@
             "unlocked": ""
         }
     },
-	"custom/divider": {
-		"format": ""
-	},
-	"custom/dividery": {
-		"format": ""
-	},
-    "sway/window": {
+	"sway/window": {
         "format": " {}",
         "max-length": 35,
         "rewrite": {
@@ -180,7 +174,7 @@
 		"exec": "~/.config/waybar/scripts/dunst.sh",
 		"on-click": "dunstctl set-paused toggle",
 		"restart-interval": 1,
-		"format": "{}",
+		"format": "{}",
 		"return-type": "json",
 	},
 }
