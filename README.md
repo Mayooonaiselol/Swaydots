@@ -11,7 +11,7 @@ mononoki Nerd Font Mono[font in terminal]
 
 Ubuntu Nerd Font[req for showing icons]
 
-## About .sh files
+## About scripts (.sh files)
 
 Make them executable first in order to use them! 
 
@@ -29,7 +29,7 @@ I use `swaylock-effects` instead of `swaylock`.
 
 Change qutebrowser/config.py ,lines 155 and 159 for your location of the startpage.
 
-## GTK Issue
+## GTK Issue(with fix)
 
 I encounter a gtk problem everytime in which the theme does not change from lxappearance.
 
