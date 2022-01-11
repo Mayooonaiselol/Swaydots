@@ -4,7 +4,7 @@ Dotfiles for my Sway desktop.
 
 ![image](https://user-images.githubusercontent.com/97210788/148987607-c760fdb6-e8c2-444b-ad55-2b19a134ca42.png)
 
-![image](https://user-images.githubusercontent.com/97210788/148987864-a4fcc387-7270-4091-a59b-f354798e01b1.png)
+![image](https://user-images.githubusercontent.com/97210788/148988567-0ce779ee-a65f-4f12-a97b-c704ebe5312c.png)
 
 ![image](https://user-images.githubusercontent.com/97210788/148987103-fb7e761c-9030-4c9c-9797-af07c9f0a5e1.png)
 
