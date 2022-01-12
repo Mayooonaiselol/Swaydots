@@ -20,6 +20,16 @@ mononoki Nerd Font Mono[font in terminal]
 
 Ubuntu Nerd Font[req for showing icons]
 
+## Theme:
+
+arc-dark (gtk)
+
+papirus-icon-theme
+
+Breeze_cursors
+
+NOTE: Remember to change the icon theme in dunst config files if you want to use a different icon theme. Update the gtk-3.0 config file as well if you change themes.
+
 ## About scripts (.sh files)
 
 Make them executable first in order to use them! 
