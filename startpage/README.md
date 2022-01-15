@@ -1,1 +1,1 @@
-# DIY_startpage
+startpage for qutebrowser
