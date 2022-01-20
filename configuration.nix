@@ -27,7 +27,7 @@
     keyMap = "us";
   };
 
-  time.timeZone = "Asia/Kolkata";
+  time.timeZone = "Europe/London"; #Your timezone here
 
   hardware = {
     
