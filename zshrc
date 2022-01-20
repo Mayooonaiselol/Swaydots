@@ -46,7 +46,6 @@ alias sudo="doas"
 alias sql='mycli --prompt "$MYCLI_PS1"'
 alias x="exit"
 alias cmatrix="unimatrix -n -s 96 -l 'o' -c cyan"
-alias mc="cd ~/.folder && mesa_glthread=true java -jar TLauncher-2.83.jar && exit"
 alias share="/usr/libexec/xdg-desktop-portal -r & /usr/libexec/xdg-desktop-portal-wlr"
 
 export QT_QPA_PLATFORMTHEME=qt5ct
