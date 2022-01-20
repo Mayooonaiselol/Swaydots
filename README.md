@@ -1,14 +1,10 @@
 # Swaydots
 Dotfiles for my Sway desktop. 
 
+![image](https://user-images.githubusercontent.com/97210788/150338975-709e1c1a-6314-41d3-bb89-2274fa816466.png)
 
-![image](https://user-images.githubusercontent.com/97210788/148987607-c760fdb6-e8c2-444b-ad55-2b19a134ca42.png)
+![image](https://user-images.githubusercontent.com/97210788/150339007-2bd9f7d1-ce32-476b-9db6-5352cfaf0cca.png)
 
-![image](https://user-images.githubusercontent.com/97210788/148988567-0ce779ee-a65f-4f12-a97b-c704ebe5312c.png)
-
-![image](https://user-images.githubusercontent.com/97210788/148987103-fb7e761c-9030-4c9c-9797-af07c9f0a5e1.png)
-
-![image](https://user-images.githubusercontent.com/97210788/148987373-b522e715-634f-4917-8a24-d3989b8a7c30.png)
 
 ## Fonts:
 
