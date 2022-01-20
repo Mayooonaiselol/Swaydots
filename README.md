@@ -48,6 +48,8 @@ I use `swaylock-effects` instead of `swaylock`.
 
 Change qutebrowser/config.py ,lines 155 and 159 for your location of the startpage.
 
+ranger configs need the kitty terminal with ranger-devicons installed
+
 ## GTK Issue(with fix)
 
 I encounter a gtk problem everytime in which the theme does not change from lxappearance.
