@@ -1,5 +1,5 @@
 # Swaydots
-Dotfiles for my Sway desktop. 
+Dotfiles for my Sway desktop. [also Wayfire configs]
 
 ![image](https://user-images.githubusercontent.com/97210788/150338975-709e1c1a-6314-41d3-bb89-2274fa816466.png)
 
@@ -45,6 +45,8 @@ Add this line in sway config(not present by default): `exec bash ./.scripts/batt
 ## Some things...
   
 I use `swaylock-effects` instead of `swaylock`.
+
+Wayfire configs are not final!
 
 Change qutebrowser/config.py ,lines 155 and 159 for your location of the startpage.
 
