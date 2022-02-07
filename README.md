@@ -1,5 +1,5 @@
 # Swaydots
-Dotfiles for my Sway desktop. [check another repo for wayfire configs]
+Dotfiles for my Sway desktop.
 
 ![image](https://user-images.githubusercontent.com/97210788/150338975-709e1c1a-6314-41d3-bb89-2274fa816466.png)
 
