@@ -142,7 +142,7 @@ c.colors.webpage.darkmode.enabled = True
 c.fonts.default_family = 'Iosevka Fixed Extended'
 
 # Bindings for normal mode
-config.bind('Z', 'hint links spwan alacritty -e youtube-dl {hint-url}')
+config.bind('Z', 'hint links spawn alacritty -e youtube-dl {hint-url}')
 config.bind('pv', 'hint links spawn mpv {hint-url}')
 config.bind('t', 'set-cmd-text -s :open -t')
 config.bind('xb', 'config-cycle statusbar.show always never')
